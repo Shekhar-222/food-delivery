@@ -15,7 +15,7 @@ export const CART_FALLBACK_IMG =
 //export const GET_RESTAURANT_MENU = "https://www.swiggy.com/dapi/menu/v4/full?lat=11.9343684&lng=79.8255499&menuId=";
 
 /* BANGALORE LOCATION URL */
-export const GET_RESTAURANTS_LIST = "https://instafood.onrender.com/api/restaurants?lat=12.9351929&lng=77.62448069999999";
+export const GET_RESTAURANTS_LIST = "https://instafood.onrender.com/api/restaurants?lat=18.45943915516203&lng=73.83950024843215";
 export const GET_RESTAURANT_MENU = "https://instafood.onrender.com/api/menu?lat=12.9351929&lng=77.62448069999999&restaurantId=";
 
 /* Shimmer - Number of cards & items to be displayed */
@@ -23,16 +23,16 @@ export const SHIMMER_RES_CARDS_COUNT = 8;
 export const SHIMMER_MENU_ITEMS_COUNT = 4;
 
 /* Github - username, blog name */
-export const GITHUB_USER_NAME = "HarshithaSolai";
-export const GITHUB_BLOG_NAME = "Learn-React-With-Harshi";
+export const GITHUB_USER_NAME = "shekhar-222";
+
 
 /* Github API getuser */
 export const GITHUB_GET_USER = "https://api.github.com/users/";
 
 /* Social Media Links */
-export const GITHUB_LINK = "https://github.com/HarshithaSolai";
-export const LINKEDIN_LINK = "https://www.linkedin.com/in/harshitha-sv/";
-export const GMAIL_LINK = "mailto:solaiharshitha0@gmail.com";
+export const GITHUB_LINK = "https://github.com/shekhar-222";
+export const LINKEDIN_LINK = "https://www.linkedin.com/in/shekhar-shinde-95980077/";
+export const GMAIL_LINK = "mailto:shekhar30.shinde@gmail.com";
 
 /* User Address - Checkout  */
 export const USERS_ADDRESS_LIST = [

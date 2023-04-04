@@ -1,5 +1,5 @@
 {
-  "name": "chapter-12-lets-build-our-store",
+  "name": "food_delivery",
   "version": "1.0.0",
   "description": "Documenting my learning journey of [Namaste React Live Course](https://learn.namastedev.com/) conducted by Akshay Saini",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Learn-React-With-Harshi/chapter-12-lets-build-our-store.git"
+    "url": "git+https://github.com/Shekhar-222/food-delivery.git"
   },
   "author": "Harshitha SV",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Learn-React-With-Harshi/chapter-12-lets-build-our-store/issues"
+    "url": "https://github.com/Shekhar-222/food-delivery.git/issues"
   },
-  "homepage": "https://github.com/Learn-React-With-Harshi/chapter-12-lets-build-our-store#readme",
+  "homepage": "https://github.com/Shekhar-222/food-delivery.git#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "firebase": "^9.17.1",
@@ -32,7 +32,7 @@
     "@babel/core": "^7.20.12",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "dotenv": "^16.0.3",
-    "parcel": "^2.8.2",
+    "parcel": "^2.8.3",
     "postcss": "^8.4.21",
     "process": "^0.11.10",
     "tailwindcss": "^3.2.4"
